@@ -1,0 +1,7 @@
+{"level":"info","message":"Operation mod with n1=10, n2=3, result=1","service":"calculator-microservice"}
+{"level":"info","message":"Operation mod with n1=10, n2=3, result=1","service":"calculator-microservice"}
+{"level":"info","message":"Operation power with n1=10, n2=3, result=1000","service":"calculator-microservice"}
+{"level":"info","message":"Operation sqrt with n1=10, n2=3, result=3.1622776601683795","service":"calculator-microservice"}
+{"level":"info","message":"Sqrt: √25 = 5","service":"calculator-microservice"}
+{"level":"info","message":"Operation mod with n1=10, n2=3, result=1","service":"calculator-microservice"}
+{"level":"info","message":"mod: 10, 3 => 1","service":"calculator-microservice"}
