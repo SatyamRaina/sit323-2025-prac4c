@@ -1,4 +1,4 @@
-# 🧮 SIT323 Practice 4C: Advanced Calculator Microservice
+# 🧮 Advanced Calculator Microservice
 
 This project is a Node.js-based calculator microservice that supports both basic and advanced arithmetic operations via REST API endpoints. It includes detailed logging and input validation.
 
